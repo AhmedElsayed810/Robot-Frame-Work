@@ -5,10 +5,10 @@ Resource    ./CommonVariables.robot
 *** Variables ***
 ${BROWSER}    chrome
 ${BROWSER2}  edge
-${URL}      https://test.kamashka.com/en
+${URL}      https://www.amazon.eg/?language=en_AE
 
 ${COMMON_IMPLICIT_WAIT}     15
-${COMMON_TIME_OUT}  20
+${COMMON_TIME_OUT}  30
 ${COMMON_LOAD_TIME_OUT}     13
 ${COMMON_SELENIUM_SPEED}    0.1
 ${RETRY}    5 x
