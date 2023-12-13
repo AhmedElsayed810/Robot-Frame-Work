@@ -1,5 +1,4 @@
 *** Settings ***
-Resource    ../../Resources/000-Common/CommonKeyWords.robot
 Library     SeleniumLibrary
 Resource    ./CommonVariables.robot
 
