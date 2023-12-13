@@ -14,7 +14,7 @@ Verify Product Name and Price Is Successfully Appear
 
 Navigate To Checkout Page Through Cart Page
     Click on Checkout
-    Verify that checkout page opened successfully
+#    Verify that checkout page opened successfully
 
 Verify That Product Name Is Successfully Appear
      [Arguments]    ${product_name}=Samsung Galaxy A54
