@@ -9,7 +9,6 @@ Verify That Cart Is Successfully Opened
     wait until page contains    ${CART_TEXT_TITLE}
 
 Verify Product Name and Price Is Successfully Appear
-    #  TODO MOVE
     Verify That Product Name Is Successfully Appear
     Verify That Product Price Is Successfully Appear
 
