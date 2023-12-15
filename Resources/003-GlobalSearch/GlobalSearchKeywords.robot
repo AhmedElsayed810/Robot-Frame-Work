@@ -15,7 +15,7 @@ Insert Product Name To Search For
     Run Keyword until Success    seleniumlibrary.input text      ${Global_SEARCH_SEARCH_BAR_FIELD}   ${product_name}
 
 Click on Enter on Key Board To Navigate To Product
-    press key    Enter
+    press keys    Enter
 
 Verify That product is Successfully appeared
     [Arguments]    ${product_name}
